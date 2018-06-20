@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-blog-sweetmentor.c9users.io']
+ALLOWED_HOSTS = ['django-blog-sweetmentor.c9users.io', 'stephen-blog.herokuapp.com']
 
 
 # Application definition
